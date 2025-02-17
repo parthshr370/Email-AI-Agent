@@ -2,6 +2,8 @@
 
 An AI-powered email automation system that fetches, filters, summarizes, and generates responses to emails using advanced language models. It integrates with both IMAP and SMTP servers and utilizes a state-graph workflow to manage email processing.
 
+You can read my blog to get better understanding of the projet - [here](https://medium.com/@parthshr370/building-your-first-agent-with-deepseek-ai-email-agent-e6f17d3c290e)
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -175,11 +177,11 @@ Please follow our coding conventions and include relevant tests when applicable.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/parthshr370/Email-AI-Agent/blob/main/LICENSE.txt)) file for details.
 
 ## Acknowledgments
 
-- **Deepseek:** For providing the API and language model backend.
+- **Deepseek:** For the API and language model backend.
 - **LangChain & LangGraph:** For the frameworks that help in building language model–driven workflows.
 - **Open Source Contributors:** Thank you to everyone who has contributed to the libraries and tools used in this project.
 
